@@ -1,16 +1,32 @@
 ---
-title: Goldydocs
+title: AgilePhD
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+{{< blocks/cover title="Welcome to AgilePhD!" image_anchor="top" height="full" >}}
+<!-- <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
-{{< blocks/link-down color="info" >}}
+</a> -->
+<div class="pt-3 lead">
+  <p class="display-6">
+    A resource for anyone looking to learn about Python, Machine Learning, Agile Methods, or Blockchain
+  </p>
+  <p class="p-initial my-5">
+    <a class="btn btn-lg btn-primary me-3" href="about/">Learn More</a>
+    <a class="btn btn-lg btn-secondary" href="docs/get-started/">Get started</a>
+  </p>
+  <p>
+    <a class="btn btn-link text-info" href="#td-block-1" aria-label="Read more">
+      <i class="fa-solid fa-circle-chevron-down" style="font-size:400%">
+      </i>
+    </a>
+  </p>
+</div>
+
+<!-- <p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p> -->
+<!-- {{< blocks/link-down color="info" >}} -->
 {{< /blocks/cover >}}
 
 
