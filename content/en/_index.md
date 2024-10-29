@@ -11,7 +11,7 @@ title: AgilePhD
 </a> -->
 <div class="pt-3 lead">
   <p class="display-6">
-    A resource for learning about Python, Data Science, Agile Methods, and Blockchain
+    Expert consulting in blockchain applications, data science, and agile methods to empower innovation and growth
   </p>
   <p class="p-initial my-5">
     <a class="btn btn-lg btn-primary me-3" href="about/">Learn More</a>
