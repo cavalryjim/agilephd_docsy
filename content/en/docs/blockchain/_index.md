@@ -1,5 +1,5 @@
 ---
-title: Reference
+title: Blockchain
 description: Low level reference docs for your project.
 weight: 9
 ---
