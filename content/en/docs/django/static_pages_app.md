@@ -1,5 +1,10 @@
-# Static Pages Application
-\label{cha:static_pages_app}
+---
+title: Static Pages Application
+description: >
+  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+date: 2017-01-05
+weight: 4
+---
 
 For our first application, we will create and deploy a basic Django app that serves some static html pages.  This exercise will introduce us Django Projects vs Applications.  We will also deploy the application on a production hosting service called Heroku.
 
