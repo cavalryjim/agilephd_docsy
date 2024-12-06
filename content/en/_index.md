@@ -66,7 +66,7 @@ This is the second section
 {{% blocks/section type="row" %}}
 
 {{% blocks/feature icon="fas fa-blog" title="Read my Blog" 
-    url="/blog/"%}}
+    url="https://blog.agilephd.com"%}}
 It contains information about recent projects
 {{% /blocks/feature %}}
 
@@ -75,8 +75,8 @@ It contains information about recent projects
 Frequent contributions on **GitHub**. New connections are always welcome!
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
+{{% blocks/feature icon="fab fa-linkedin" title="Follow on LinkedIn!"
+    url="https://www.linkedin.com/in/jdavisphd/" %}}
 For announcement of latest features etc.
 {{% /blocks/feature %}}
 
